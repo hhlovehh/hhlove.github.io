@@ -1,26 +1,27 @@
 body{
-
+  margin: 0;
+  padding: 0;
 }
 .top{
   padding-top: 24px;
-  height: 240px;
+  height: 224px;
   background-color: #e1a54f;
 }
 .top .p1{
   text-align: center;
   padding: 10px 0;
   background-color: #cf7648;
-  font-size: 24px;
+  font-size: 22px;
   color: #fff;
 }
 .top .p2{
   font-family: 华文彩云;
   font-weight: 700;
-  padding-top: 36px;
+  padding-top: 24px;
   font-size: 72px;
   color: #c68231;
   text-align: center;
-  -webkit-text-stroke: 0.1px rgb(255, 255, 255);
+  -webkit-text-stroke: 1px rgb(255, 255, 255);
 }
 .top .p3{
   font-size: 18px;
@@ -61,7 +62,7 @@ body{
   left: 50%;
   transform: translateX(-50%);
   padding: 5px;
-  width: 80%;
+  width: 76%;
   height: 72px;
   background-color: #d5773e;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.6);
